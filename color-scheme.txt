@@ -1,0 +1,81 @@
+###Main-Body
+Raleway - 900
+-backgroundcolor:
+#### F4F4F4
+##Text
+-color:
+#### 333333
+-font:
+#### Raleway,sans serif;
+-line-height:
+#### 27px
+-font-size:
+#### 16px
+
+###Logo
+--111x26
+###About-Body
+Raleway - 900
+-backgroundcolor:
+#### FFE262
+-color:
+#### 333333
+-font:
+#### Raleway, sans-serif;
+-line-height:
+#### 27px
+-font-size:
+#### 16px
+
+###Block-Quote
+--Raleway - 500
+-Font Family
+#### Raleway, sans-serif;
+-Font Size
+#### 25px
+-Line Height
+#### 38px
+
+###Header
+--Raleway - bold
+-Font Family
+#### Raleway;
+-Font Size
+####13px
+-Line Height
+####17px
+
+###Header-panel
+--Raleway - bold
+-backgroundcolor:
+#### 99DEEA
+-color:
+#### 14485f
+-Font Family
+#### Raleway, sans-serif;
+-Font Size
+#### 40px
+-Line Height
+#### 40px
+
+###Footer
+--Raleway - regular
+-Font Family
+#### Raleway;
+-Font Size
+#### 16px
+-Line Height
+#### 18px
+
+.SESHUEN {
+  font-size: 25px;
+  font-family: "Lato";
+  color: rgb(51, 51, 51);
+  text-align: center;
+  position: absolute;
+  left: -0.757px;
+  top: -3.606px;
+  width: 109px;
+  height: 19px;
+  z-index: 1;
+}
